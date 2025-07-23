@@ -8,5 +8,5 @@ The purpose of this project is to practice building a simple website using tools
 
 ##Technologies
 ---
-+HTML
-+CSS
++ HTML
++ CSS
